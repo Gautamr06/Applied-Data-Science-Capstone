@@ -1,0 +1,8 @@
+This repository is created for my final year college project as well as the IBM Applied Data Science Capstone Project.
+
+I am working on this project to apply everything I have learned in data science, including data collection, data cleaning, SQL analysis, data visualization, and machine learning. Throughout this capstone, I will analyze real SpaceX
+Falcon 9 launch data to predict whether the first stage of the rocket will land successfully and be reused.
+
+All my notebooks, datasets, code, queries, visualizations, and project files will be stored here as a complete record of my work and learning.
+
+This repository represents my practical journey in data science and the successful completion of my final project.
